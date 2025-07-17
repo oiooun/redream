@@ -1,5 +1,5 @@
 # Re-Dream
-
+2024.11.30 ~ 2024.12.12
 
 ## 프로젝트 개요
 
@@ -38,8 +38,22 @@
 
 
 
+## 실행화면
 
-   
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/cb7c7fd8-c140-45de-be24-02480cf5909e" />
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/3b1abc1c-84c1-4772-ad14-a381961407fe" />
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/b1d097ff-72dc-4266-8e3c-57885bbf0733" />
+
+
+## 생성 이미지
+입력텍스트: **거북이와 함께 바다를 돌아다니며 수영을 했다**
+
+<img width="300" height="300" alt="image_1" src="https://github.com/user-attachments/assets/5df906d0-427a-481b-afea-97cdb96c4717" />
+<img width="300" height="300" alt="image_3" src="https://github.com/user-attachments/assets/463e7ddb-988d-426b-8f96-6d385db2b480" />
+<img width="300" height="300" alt="image_2" src="https://github.com/user-attachments/assets/5457ea47-1a14-4bdc-b1be-087b5ca42655" />
+<img width="300" height="300" alt="image_5" src="https://github.com/user-attachments/assets/03c297a3-9154-415c-a1ab-2e1b59710798" />
+<img width="300" height="300" alt="image_4" src="https://github.com/user-attachments/assets/d8eede78-8ff0-4507-8305-c7d6921640f3" />
+
 
 
 
